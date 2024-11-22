@@ -93,16 +93,3 @@ conda install pip
 pip install -r requirements.txt
 ```
 
-## 5. Team Members<a class="anchor" id="team-members"></a>
-
-| Name and Surname            | Duties                                   |
-|-----------------------------|------------------------------------------|
-| Sakhumuzi Mchunu            | Data cleaning                            |
-| Tikedzani Geraldine Vele    | Project overview and Markdowns           |
-| Muwanwa Tshikovhi           | Readme and Noting minutes               |
-| Welsh Dube                  | Visualisations                           |
-| Nonkululeko Mgaga           | Team leader and Visualisations           |
-| Cleragy Jilani              | Data cleaning and Project manager        |
-
-
-
